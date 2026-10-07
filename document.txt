@@ -1,0 +1,9 @@
+Python este un limbaj de programare foarte popular, folosit în dezvoltarea aplicațiilor web,
+inteligență artificială, analiză de date, automatizare și multe alte domenii.
+
+Unul dintre avantajele principale ale Python este sintaxa sa simplă și ușor de citit.
+Din acest motiv, Python este utilizat atât de începători, cât și de programatori experimentați.
+
+În domeniul inteligenței artificiale, Python este folosit împreună cu biblioteci precum
+PyTorch, TensorFlow și scikit-learn. Python este de asemenea foarte popular pentru
+crearea de scripturi și automatizarea taskurilor repetitive.
