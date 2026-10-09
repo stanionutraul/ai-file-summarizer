@@ -1,9 +1,25 @@
-Python este un limbaj de programare foarte popular, folosit în dezvoltarea aplicațiilor web,
-inteligență artificială, analiză de date, automatizare și multe alte domenii.
+# Sistemul Solar
 
-Unul dintre avantajele principale ale Python este sintaxa sa simplă și ușor de citit.
-Din acest motiv, Python este utilizat atât de începători, cât și de programatori experimentați.
+Sistemul Solar este format din Soare și toate obiectele cerești care sunt ținute de gravitația sa. Acestea includ opt planete, sateliții lor naturali, planete pitice, asteroizi și comete.
 
-În domeniul inteligenței artificiale, Python este folosit împreună cu biblioteci precum
-PyTorch, TensorFlow și scikit-learn. Python este de asemenea foarte popular pentru
-crearea de scripturi și automatizarea taskurilor repetitive.
+Soarele este steaua din centrul Sistemului Solar. El conține cea mai mare parte a masei sistemului și furnizează lumina și energia de care depinde viața pe Pământ.
+
+Cele opt planete, în ordinea distanței față de Soare, sunt Mercur, Venus, Pământ, Marte, Jupiter, Saturn, Uranus și Neptun.
+
+Mercur este planeta cea mai apropiată de Soare și cea mai mică dintre cele opt planete. Venus este a doua planetă de la Soare și are o atmosferă foarte densă, bogată în dioxid de carbon.
+
+Pământul este a treia planetă de la Soare și singura planetă cunoscută în prezent pentru existența vieții. Pe suprafața sa există apă lichidă, iar atmosfera conține în principal azot și oxigen.
+
+Marte este a patra planetă de la Soare. Este cunoscută drept Planeta Roșie datorită culorii sale, asociată cu oxizii de fier de la suprafață. Cercetătorii studiază Marte pentru a înțelege mai bine trecutul său și posibilitatea existenței unor forme de viață microbiană în trecut.
+
+Jupiter este cea mai mare planetă din Sistemul Solar. Este un gigant gazos și are o furtună uriașă cunoscută drept Marea Pată Roșie, observată de secole.
+
+Saturn este cunoscut pentru sistemul său spectaculos de inele, formate în principal din particule de gheață și rocă. Deși și alte planete au inele, cele ale lui Saturn sunt deosebit de vizibile.
+
+Uranus este un gigant de gheață care se rotește cu axa înclinată foarte mult, astfel încât pare că se rotește aproape pe o parte. Neptun este cea mai îndepărtată planetă de Soare și este cunoscută pentru vânturile sale extrem de puternice.
+
+Planetele se deplasează în jurul Soarelui pe orbite. O orbită reprezintă traiectoria pe care un obiect ceresc o urmează în jurul altui obiect datorită gravitației. Planetele interioare — Mercur, Venus, Pământ și Marte — sunt în principal stâncoase. Jupiter, Saturn, Uranus și Neptun sunt planete exterioare mult mai mari, alcătuite în mare parte din gaze sau materiale volatile.
+
+Pluto nu este clasificată drept una dintre cele opt planete. Din 2006, este încadrată de Uniunea Astronomică Internațională în categoria planetelor pitice. Pluto se află în regiunea exterioară a Sistemului Solar, dincolo de orbita lui Neptun.
+
+Sistemul Solar face parte din galaxia Calea Lactee. Soarele se află într-o regiune a galaxiei, iar Sistemul Solar se deplasează în jurul centrului galactic împreună cu stelele și alte obiecte din apropiere.
